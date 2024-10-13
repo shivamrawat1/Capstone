@@ -22,7 +22,7 @@ nest_asyncio.apply()
 is_finals = []
 
 # Your personal API key from Deepgram
-DEEPGRAM_API_KEY = 'c808d97be5d19017965cdba6186189754b2829a6'
+DEEPGRAM_API_KEY = 
 
 async def main():
     try:
